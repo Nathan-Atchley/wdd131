@@ -1,6 +1,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     display: flex;
+    color: #333;
     justify-content: center;
     min-width: 860px;
     padding: 50px;
@@ -39,7 +40,6 @@ hr {
 p {
     line-height: 1.6;
     font-size: 18px;
-    color: #333;
     text-align: left;
 }
 .italic {
@@ -68,4 +68,10 @@ img {
     margin-top: 60px;
     width: 140px;
     height: auto;
+}
+
+.theme {
+    position: absolute;
+    top: 20px;
+    left: 20px;
 }
