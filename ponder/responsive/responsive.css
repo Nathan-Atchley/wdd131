@@ -2,27 +2,28 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
 
 body {
-  margin: 0;
-  padding: 0;
-  font-family: Roboto, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-family: Roboto, sans-serif;
 }
 header,
 main,
 footer {
-  max-width: 1000px;
-  margin: 1rem auto;
-  border: 1px solid #ccc;
-  padding: 1rem;
-  background-color: lightblue;
+    max-width: 1000px;
+    margin: 1rem auto;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    background-color: lightblue;
 }
 h1 {
     text-align: center;
 }
 section {
-  padding: 20px;
-  background-color: white;
-  margin: 1em;
-  border: 1px solid #ccc;
+    padding: 20px;
+    background-color: white;
+    margin: 1em;
+    border: 1px solid #ccc;
+    min-width: 200px;
 }
 nav a {
     padding: 20px;
@@ -73,11 +74,13 @@ footer {
     .menu-btn {
         display: none;
     }
-    nav a {
-        display: inline;
-    }
     nav {
-        text-align: right;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+    }
+    nav a {
+        display: block;
+        text-align: center;
     }
 }
 
