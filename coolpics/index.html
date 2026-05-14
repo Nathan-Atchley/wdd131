@@ -8,12 +8,13 @@
     <meta name="description" content="A project to practice HTML and CSS skills.">
     <link rel="stylesheet" href="normalize.css">
     <link rel="stylesheet" href="coolpics.css">
+    <script src="coolpics.js" defer></script>
 </head>
 <body>
     <header>
         <h1>Cool Pics 📷</h1>
-        <h2>Menu</h2>
-        <nav>
+        <h2 class="menu-button">Menu</h2>
+        <nav class="main-nav">
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="#">People</a></li>
@@ -36,6 +37,10 @@
             <img src="norris-sm.jpg" alt="A landscape photo of a water feature and a lot of steam" class="gallery-item">
             <img src="norris-sm.jpg" alt="A landscape photo of a water feature and a lot of steam" class="gallery-item">
         </section>
+        <dialog id="modal">
+            <button id="close-viewer">×</button>
+            <img>
+        </dialog>
     </main>
     <footer>
         <p>&copy; 2026 Not a real site 🙂</p>
