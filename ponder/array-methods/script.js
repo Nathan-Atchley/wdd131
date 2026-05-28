@@ -82,11 +82,26 @@ people.forEach((thes) => {
     console.log(thes.name);
 });
 
+let namesArray = people.map((thes) => {
+    return thes.name;
+});
+
+console.log(namesArray);
+
 
 let filteredPeople = people.filter((thes) => {
     return thes.age === 28;
 });
 
 console.log(filteredPeople);
-// 3a. JSON
+
+let passedClasses = people.reduce((acc, thes) => {
+    let passed = thes.classes.filter((cls) => cls.grade >= 70);
+    return acc.concat(passed);
+}, []);
+
+console.log(passedClasses);
+
+let index = people.indexOf(people.find((thes) => thes.name === "Amber"));
+console.log(index);
 
