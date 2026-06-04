@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Tickets</title>
+    <meta name="author" content="Nathan">
+    <script src="script.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/favicon.ico">
+</head>
+<body>
+    <form id="ticketForm">
+        <h1>Event Ticket</h1>
+        
+        <div class="form-row split-row">
+            <div class="field-group">
+                <label for="firstName">First Name:</label>
+                <input type="text" id="firstName" name="firstName" required>
+            </div>
+            <div class="field-group">
+                <label for="lastName">Last Name:</label>
+                <input type="text" id="lastName" name="lastName" required>
+            </div>
+        </div>
+
+        <div class="form-row">
+            <div class="field-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+        </div>
+
+        <div class="form-row split-row">
+            <div class="field-group">
+                <label for="guestType">Type:</label>
+                <select id="guestType" name="guestType" required>
+                    <option value="">Choose one</option>
+                    <option value="student">Student</option>
+                    <option value="guest">Guest</option>
+                </select>
+            </div>
+            <div class="field-group">
+                <label for="eventDate">Event Date:</label>
+                <input type="date" id="eventDate" name="eventDate" required>
+            </div>
+        </div>
+
+        <div class="form-row hidden1" id="studentIdField">
+            <div class="field-group">
+                <label for="studentId">Student ID:</label>
+                <input type="text" id="studentId" name="studentId">
+            </div>
+        </div>
+
+        <div class="form-row hidden2" id="accessCodeField">
+            <div class="field-group">
+                <label for="accessCode">Access Code:</label>
+                <input type="text" id="accessCode" name="accessCode">
+            </div>
+        </div>
+
+        <button type="submit">Get Ticket</button>
+        
+        <section id="output" aria-live="polite"></section>
+    </form>
+</body>
+</html>
