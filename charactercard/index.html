@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Card - Valeros</title>
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Character Card - Valeros">
+    <meta property="og:description" content="A dynamic Pathfinder character card built with HTML, CSS, and JavaScript.">
+    <meta property="og:url" content="https://yourURLofPage.here">
+    <meta property="og:image" content="https://pathfinderwiki.com/w/images/8/8d/Pathfinder1.jpg">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Character Card - Valeros">
+    <meta name="twitter:description" content="A dynamic Pathfinder character card built with HTML, CSS, and JavaScript.">
+    <meta name="twitter:image" content="https://pathfinderwiki.com/w/images/8/8d/Pathfinder1.jpg">
+
+    <link rel="icon" href="favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <main>
+        <div class="card">
+            <img id="char-image" class="image" src="" alt="Character Image">
+            
+            <h2 id="char-name" class="name"></h2>
+            
+            <div class="stats">
+                <p>Class: <span id="char-class"></span></p>
+                <p>Level: <span id="char-level"></span></p>
+                <p>Health: <span id="char-hp"></span> / <span id="char-maxhp"></span></p>
+            </div>
+            
+            <div class="buttons">
+                <button id="btn-attack">Attack</button>
+                <button id="btn-heal">Heal Self</button>
+                <button id="btn-level">Level Up</button>
+            </div>
+        </div>
+        <div class="card">
+            <img id="enemy-image" class="image" src="" alt="Character Image">
+            
+            <h2 id="enemy-name" class="name"></h2>
+            
+            <div class="stats">
+                <p>Class: <span id="enemy-class"></span></p>
+                <p>Level: <span id="enemy-level"></span></p>
+                <p>Health: <span id="enemy-hp"></span> / <span id="enemy-maxhp"></span></p>
+            </div>
+            
+            <div class="buttons">
+                <button id="btn-attack2">Attack</button>
+                <button id="btn-heal2">Heal Self</button>
+                <button id="btn-level2">Level Up</button>
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
