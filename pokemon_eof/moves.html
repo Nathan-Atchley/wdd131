@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Pokemon Explorers of Fate Moves Page">
+    <meta name="author" content="Nathan Atchley">
+    <title>Pokemon EOF</title>
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Pokemon Explorers of Fate Moves Page">
+    <meta property="og:description" content="Pokemon Explorers of Fate is a system designed to let Mystery Dungeon lovers enjoy their own adventures.">
+    <meta property="og:url" content="https://nathan-atchley.github.io/wdd131/pokemon_eof/">
+    <meta property="og:image" content="images/previews/moves page preview.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Pokemon Explorers of Fate Moves Page">
+    <meta name="twitter:description" content="Pokemon Explorers of Fate is a system designed to let Mystery Dungeon lovers enjoy their own adventures.">
+    <meta name="twitter:image" content="images/previews/moves page preview.png">
+    
+    <link rel="icon" href="images/pokemoneoflogo.png" type="image/x-icon">
+    <link rel="apple-touch-icon" href="images/previews/appleTouch preview.png">
+
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/moves.css">
+    <script src="moves.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Pokemon Explorers of Fate</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="moves.html" class="active">Move Database</a></li>
+                <li><a href="resources.html">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Move Database</h2>
+        <p>Search for a Pokemon move or a Pokemon to see its details. This may take a moment depending on your internet connection.</p>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Enter move or Pokemon name">
+            <button type="button" id="searchButton">Search</button>
+        </div>
+        <div id="results"></div>
+   
+    </main>
+    <footer>
+        <p>&copy; 2026 Nathan Atchley</p>
+    </footer>
+</body>
+</html>
