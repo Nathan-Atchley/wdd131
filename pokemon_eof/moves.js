@@ -2,6 +2,8 @@ const searchBar = document.querySelector('#searchInput');
 const searchButton = document.querySelector('#searchButton');
 const resultsContainer = document.querySelector('#results');
 
+let rangeData = null;
+
 searchButton.addEventListener('click', handleSearch);
 searchBar.addEventListener('keydown', (event) => {
     if (event.key === 'Enter') {
@@ -12,6 +14,9 @@ searchBar.addEventListener('keydown', (event) => {
 async function handleSearch() {
     const query = searchBar.value;
     resultsContainer.innerHTML = '<p>Searching Database...</p>';
+
+    await loadRangeData();
+
     const data = await pokeAPI(query);
     if (!data) {
         resultsContainer.innerHTML = '<p>No move or Pokemon found with that name.</p>';
@@ -25,6 +30,19 @@ async function handleSearch() {
     }
 };
 
+async function loadRangeData() {
+    if (rangeData) return rangeData;
+
+    const response = await fetch('./move_ranges.json');
+    const data = await response.json();
+
+    rangeData = {};
+    data.forEach(move => {
+        rangeData[move.name] = move.range;
+    });
+    return rangeData;
+}
+
 async function pokeAPI(query) {
     const cleanedQuery = query.trim().toLowerCase().replace(/\s+/g, '-');
     try {
@@ -33,7 +51,7 @@ async function pokeAPI(query) {
             throw new Error('Move not found');
         }
         const data = await moveResponse.json();
-        const moveData = extractMoveData(data);
+        const moveData = await extractMoveData(data);
         return {dataType: 'move', data: moveData};
     } catch (error) {
         try {
@@ -50,7 +68,7 @@ async function pokeAPI(query) {
     }
 }
 
-function extractMoveData(apiResponse) {
+async function extractMoveData(apiResponse) {
     const englishDescription = apiResponse.flavor_text_entries.find(entry => entry.language.name === 'en');
     let description;
     if (englishDescription) {
@@ -58,6 +76,10 @@ function extractMoveData(apiResponse) {
     } else {
         description = 'No description available.';
     }
+
+    const formatedName = formatName(apiResponse.name);
+
+    const moveRange = await loadRangeData();
     return {
         name: apiResponse.name,
         type: apiResponse.type.name,
@@ -65,7 +87,8 @@ function extractMoveData(apiResponse) {
         power: Math.ceil(apiResponse.power / 10) ?? 'N/A',
         accuracy: apiResponse.accuracy ?? 'N/A',
         pp: apiResponse.pp,
-        description: description
+        description: description,
+        range: moveRange[formatedName] || 'N/A'
     };
 }
 
@@ -77,7 +100,7 @@ async function fetchDetailedMoveList(moveList) {
             const data = await response.json();
             return {
                 level: move.level,
-                details: extractMoveData(data)
+                details: await extractMoveData(data)
             };
         } 
         catch {
@@ -172,7 +195,8 @@ function generateMoveCardHTML(moveData, level) {
                     <div class="move-cell"><span>PP:</span> ${moveData.pp}</div>
                 </div>
                 <div class="move-description-row">
-                    ${moveData.description}
+                    <div class="move-cell">${moveData.description}</div>
+                    <div class="move-cell"><span>Range:</span> ${moveData.range}</div>
                 </div>
             </div>
         </div>

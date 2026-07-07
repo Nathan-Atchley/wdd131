@@ -185,6 +185,9 @@
     border-radius: 4px;
     font-size: 0.95rem;
     color: var(--color-text-dark);
+    display: flex;
+    flex-direction: row;
+    gap: 6px;
 }
 
 .pokemon-profile {

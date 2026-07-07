@@ -1,0 +1,3342 @@
+[
+  {
+    "name": "Attack Order",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Bug Bite",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Bug Buzz",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Defend Order",
+    "range": "Self"
+  },
+  {
+    "name": "Fell Stinger",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "First Impression",
+    "range": "1*"
+  },
+  {
+    "name": "Fury Cutter",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Heal Order",
+    "range": "Self"
+  },
+  {
+    "name": "Infestation",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Leech Life",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Lunge",
+    "range": "2*"
+  },
+  {
+    "name": "Megahorn",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Pin Missile",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Pollen Puff",
+    "range": "1B*"
+  },
+  {
+    "name": "Pounce",
+    "range": "2*"
+  },
+  {
+    "name": "Powder",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Quiver Dance",
+    "range": "Self"
+  },
+  {
+    "name": "Rage Powder",
+    "range": "Self"
+  },
+  {
+    "name": "Signal Beam",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Silk Trap",
+    "range": "Self*"
+  },
+  {
+    "name": "Silver Wind",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Skitter Smack",
+    "range": "1*"
+  },
+  {
+    "name": "Spider Web",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Steamroller",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Sticky Web",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "String Shot",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Struggle Bug",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Tail Glow",
+    "range": "Self"
+  },
+  {
+    "name": "Twineedle",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "U-turn",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "X-Scissor",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Assurance",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Beat Up",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Bite",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Brutal Swing",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Ceaseless Edge",
+    "range": "1*"
+  },
+  {
+    "name": "Comeuppance",
+    "range": "1*"
+  },
+  {
+    "name": "Crunch",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Dark Pulse",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Dark Void",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Darkest Lariat",
+    "range": "2D*"
+  },
+  {
+    "name": "Embargo",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fake Tears",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "False Surrender",
+    "range": "1*"
+  },
+  {
+    "name": "Feint Attack",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fiery Wrath",
+    "range": "1*"
+  },
+  {
+    "name": "Flatter",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fling",
+    "range": "5A Enemy"
+  },
+  {
+    "name": "Foul Play",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Hone Claws",
+    "range": "Self"
+  },
+  {
+    "name": "Hyperspace Fury",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Jaw Lock",
+    "range": "1*"
+  },
+  {
+    "name": "Knock Off",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Kowtow Cleave",
+    "range": "1*"
+  },
+  {
+    "name": "Lash Out",
+    "range": "1*"
+  },
+  {
+    "name": "Memento",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Nasty Plot",
+    "range": "Self"
+  },
+  {
+    "name": "Night Daze",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Night Slash",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Obstruct",
+    "range": "Self*"
+  },
+  {
+    "name": "Parting Shot",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Payback",
+    "range": "Self"
+  },
+  {
+    "name": "Power Trip",
+    "range": "1*"
+  },
+  {
+    "name": "Punishment",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Pursuit",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Quash",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Ruination",
+    "range": "1D*"
+  },
+  {
+    "name": "Snarl",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Snatch",
+    "range": "Self"
+  },
+  {
+    "name": "Sucker Punch",
+    "range": "2 Enemy"
+  },
+  {
+    "name": "Switcheroo",
+    "range": "1 All"
+  },
+  {
+    "name": "Taunt",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Thief",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Throat Chop",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Topsy-Turvy",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Torment",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Wicked Blow",
+    "range": "1*"
+  },
+  {
+    "name": "Wicked Torque",
+    "range": "1*"
+  },
+  {
+    "name": "Breaking Swipe",
+    "range": "1B*"
+  },
+  {
+    "name": "Clanging Scales",
+    "range": "2*"
+  },
+  {
+    "name": "Clangorous Soul",
+    "range": "Self*"
+  },
+  {
+    "name": "Core Enforcer",
+    "range": "1D*"
+  },
+  {
+    "name": "Draco Meteor",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Dragon Breath",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Dragon Cheer",
+    "range": "1*"
+  },
+  {
+    "name": "Dragon Claw",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Dragon Dance",
+    "range": "Self"
+  },
+  {
+    "name": "Dragon Darts",
+    "range": "2D*"
+  },
+  {
+    "name": "Dragon Energy",
+    "range": "1D*"
+  },
+  {
+    "name": "Dragon Hammer",
+    "range": "1*"
+  },
+  {
+    "name": "Dragon Pulse",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Dragon Rage",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Dragon Rush",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Dragon Tail",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Dual Chop",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Dynamax Cannon",
+    "range": "10P*"
+  },
+  {
+    "name": "Eternabeam",
+    "range": "10P*"
+  },
+  {
+    "name": "Fickle Beam",
+    "range": "10*"
+  },
+  {
+    "name": "Glaive Rush",
+    "range": "1*"
+  },
+  {
+    "name": "Order Up",
+    "range": "1*"
+  },
+  {
+    "name": "Outrage",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Roar of Time",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Scale Shot",
+    "range": "2*"
+  },
+  {
+    "name": "Spacial Rend",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Twister",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Aura Wheel",
+    "range": "1*"
+  },
+  {
+    "name": "Bolt Beak",
+    "range": "1*"
+  },
+  {
+    "name": "Bolt Strike",
+    "range": "10D Enemy"
+  },
+  {
+    "name": "Charge",
+    "range": "Self"
+  },
+  {
+    "name": "Charge Beam",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Discharge",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Double Shock",
+    "range": "1*"
+  },
+  {
+    "name": "Eerie Impulse",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Electric Terrain",
+    "range": "Floor Other"
+  },
+  {
+    "name": "Electrify",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Electro Ball",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Electro Drift",
+    "range": "1*"
+  },
+  {
+    "name": "Electro Shot",
+    "range": "10*"
+  },
+  {
+    "name": "Electroweb",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Fusion Bolt",
+    "range": "5A Enemy"
+  },
+  {
+    "name": "Ion Deluge",
+    "range": "Floor Other"
+  },
+  {
+    "name": "Magnet Rise",
+    "range": "Self"
+  },
+  {
+    "name": "Magnetic Flux",
+    "range": "Room Party"
+  },
+  {
+    "name": "Nuzzle",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Overdrive",
+    "range": "1B*"
+  },
+  {
+    "name": "Parabolic Charge",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Plasma Fists",
+    "range": "1*"
+  },
+  {
+    "name": "Rising Voltage",
+    "range": "1*"
+  },
+  {
+    "name": "Shock Wave",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Spark",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Supercell Slam",
+    "range": "1*"
+  },
+  {
+    "name": "Thunder",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Thunder Cage",
+    "range": "1*"
+  },
+  {
+    "name": "Thunder Fang",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Thunder Punch",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Thunder Shock",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Thunder Wave",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Thunderbolt",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Thunderclap",
+    "range": "1*"
+  },
+  {
+    "name": "Volt Switch",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Volt Tackle",
+    "range": "2 Enemy"
+  },
+  {
+    "name": "Wild Charge",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Wildbolt Storm",
+    "range": "1*"
+  },
+  {
+    "name": "Zap Cannon",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Zing Zap",
+    "range": "2*"
+  },
+  {
+    "name": "Alluring Voice",
+    "range": "1*"
+  },
+  {
+    "name": "Aromatic Mist",
+    "range": "Room Allies"
+  },
+  {
+    "name": "Baby-Doll Eyes",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Charm",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Crafty Shield",
+    "range": "Room Party"
+  },
+  {
+    "name": "Dazzling Gleam",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Decorate",
+    "range": "1D*"
+  },
+  {
+    "name": "Disarming Voice",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Draining Kiss",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fairy Lock",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Fairy Wind",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fleur Cannon",
+    "range": "10*"
+  },
+  {
+    "name": "Floral Healing",
+    "range": "1D*"
+  },
+  {
+    "name": "Flower Shield",
+    "range": "Room Party"
+  },
+  {
+    "name": "Geomancy",
+    "range": "Room Allies"
+  },
+  {
+    "name": "Light of Ruin",
+    "range": "1*"
+  },
+  {
+    "name": "Magical Torque",
+    "range": "1*"
+  },
+  {
+    "name": "Misty Explosion",
+    "range": "1B*"
+  },
+  {
+    "name": "Misty Terrain",
+    "range": "Floor Other"
+  },
+  {
+    "name": "Moonblast",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Moonlight",
+    "range": "Room Party"
+  },
+  {
+    "name": "Nature's Madness",
+    "range": "1*"
+  },
+  {
+    "name": "Play Rough",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Spirit Break",
+    "range": "1*"
+  },
+  {
+    "name": "Springtide Storm",
+    "range": "Room*"
+  },
+  {
+    "name": "Strange Steam",
+    "range": "2D*"
+  },
+  {
+    "name": "Sweet Kiss",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Arm Thrust",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Aura Sphere",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Axe Kick",
+    "range": "1*"
+  },
+  {
+    "name": "Body Press",
+    "range": "1*"
+  },
+  {
+    "name": "Brick Break",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Bulk Up",
+    "range": "Self"
+  },
+  {
+    "name": "Circle Throw",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Close Combat",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Coaching",
+    "range": "1*"
+  },
+  {
+    "name": "Collision Course",
+    "range": "1*"
+  },
+  {
+    "name": "Combat Torque",
+    "range": "1*"
+  },
+  {
+    "name": "Counter",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Cross Chop",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Detect",
+    "range": "Self"
+  },
+  {
+    "name": "Double Kick",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Drain Punch",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Dynamic Punch",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Final Gambit",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Flying Press",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Focus Blast",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Focus Punch",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Force Palm",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Hammer Arm",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "High Jump Kick",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Jump Kick",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Karate Chop",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Low Kick",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Low Sweep",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Mach Punch",
+    "range": "2 Enemy"
+  },
+  {
+    "name": "Mat Block",
+    "range": "Room Party"
+  },
+  {
+    "name": "Meteor Assault",
+    "range": "Room*"
+  },
+  {
+    "name": "No Retreat",
+    "range": "Self*"
+  },
+  {
+    "name": "Octolock",
+    "range": "1B*"
+  },
+  {
+    "name": "Power-Up Punch",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Quick Guard",
+    "range": "Room Party"
+  },
+  {
+    "name": "Revenge",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Reversal",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Rock Smash",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Rolling Kick",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Sacred Sword",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Secret Sword",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Seismic Toss",
+    "range": "1 All"
+  },
+  {
+    "name": "Sky Uppercut",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Storm Throw",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Submission",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Superpower",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Thunderous Kick",
+    "range": "1*"
+  },
+  {
+    "name": "Triple Arrows",
+    "range": "10*"
+  },
+  {
+    "name": "Triple Kick",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Upper Hand",
+    "range": "1*"
+  },
+  {
+    "name": "Vacuum Wave",
+    "range": "2 Enemy"
+  },
+  {
+    "name": "Victory Dance",
+    "range": "Self*"
+  },
+  {
+    "name": "Vital Throw",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Wake-Up Slap",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Armor Cannon",
+    "range": "10*"
+  },
+  {
+    "name": "Bitter Blade",
+    "range": "1*"
+  },
+  {
+    "name": "Blast Burn",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Blaze Kick",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Blazing Torque",
+    "range": "1*"
+  },
+  {
+    "name": "Blue Flare",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Burn Up",
+    "range": "1D*"
+  },
+  {
+    "name": "Burning Bulwark",
+    "range": "Self*"
+  },
+  {
+    "name": "Burning Jealousy",
+    "range": "1*"
+  },
+  {
+    "name": "Ember",
+    "range": "2D All"
+  },
+  {
+    "name": "Eruption",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Fiery Dance",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fire Blast",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Fire Fang",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fire Lash",
+    "range": "2*"
+  },
+  {
+    "name": "Fire Pledge",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fire Punch",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fire Spin",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Flame Burst",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Flame Charge",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Flame Wheel",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Flamethrower",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Flare Blitz",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fusion Flare",
+    "range": "5A Enemy"
+  },
+  {
+    "name": "Heat Crash",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Heat Wave",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Incinerate",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Inferno",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Lava Plume",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Magma Storm",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Mind Blown",
+    "range": "2D*"
+  },
+  {
+    "name": "Mystical Fire",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Overheat",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Pyro Ball",
+    "range": "10*"
+  },
+  {
+    "name": "Raging Fury",
+    "range": "1*"
+  },
+  {
+    "name": "Sacred Fire",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Searing Shot",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Shell Trap",
+    "range": "1*"
+  },
+  {
+    "name": "Sunny Day",
+    "range": "Floor Other"
+  },
+  {
+    "name": "Temper Flare",
+    "range": "1*"
+  },
+  {
+    "name": "Torch Song",
+    "range": "1D*"
+  },
+  {
+    "name": "V-create",
+    "range": "1*"
+  },
+  {
+    "name": "Will-O-Wisp",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Acrobatics",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Aerial Ace",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Aeroblast",
+    "range": "10D Enemy"
+  },
+  {
+    "name": "Air Cutter",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Air Slash",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Beak Blast",
+    "range": "1*"
+  },
+  {
+    "name": "Bleakwind Storm",
+    "range": "1*"
+  },
+  {
+    "name": "Bounce",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Brave Bird",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Chatter",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Defog",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Dragon Ascent",
+    "range": "5A Enemy"
+  },
+  {
+    "name": "Drill Peck",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Dual Wingbeat",
+    "range": "1*"
+  },
+  {
+    "name": "Feather Dance",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fly",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Gust",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Hurricane",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Mirror Move",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Oblivion Wing",
+    "range": "10D Enemy"
+  },
+  {
+    "name": "Peck",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Pluck",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Roost",
+    "range": "Self"
+  },
+  {
+    "name": "Sky Attack",
+    "range": "10D Enemy"
+  },
+  {
+    "name": "Sky Drop",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Tailwind",
+    "range": "Room Party"
+  },
+  {
+    "name": "Wing Attack",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Astonish",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Astral Barrage",
+    "range": "10*"
+  },
+  {
+    "name": "Bitter Malice",
+    "range": "1*"
+  },
+  {
+    "name": "Confuse Ray",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Curse",
+    "range": "Self"
+  },
+  {
+    "name": "Destiny Bond",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Grudge",
+    "range": "Self"
+  },
+  {
+    "name": "Hex",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Infernal Parade",
+    "range": "2*"
+  },
+  {
+    "name": "Last Respects",
+    "range": "1*"
+  },
+  {
+    "name": "Lick",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Moongeist Beam",
+    "range": "2*"
+  },
+  {
+    "name": "Night Shade",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Nightmare",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Ominous Wind",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Phantom Force",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Poltergeist",
+    "range": "2*"
+  },
+  {
+    "name": "Rage Fist",
+    "range": "1*"
+  },
+  {
+    "name": "Shadow Ball",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Shadow Bone",
+    "range": "2D*"
+  },
+  {
+    "name": "Shadow Claw",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Shadow Force",
+    "range": "10D Enemy"
+  },
+  {
+    "name": "Shadow Punch",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Shadow Sneak",
+    "range": "2 Enemy"
+  },
+  {
+    "name": "Spectral Thief",
+    "range": "1D*"
+  },
+  {
+    "name": "Spirit Shackle",
+    "range": "2D*"
+  },
+  {
+    "name": "Spite",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Trick-or-Treat",
+    "range": "1 All"
+  },
+  {
+    "name": "Absorb",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Apple Acid",
+    "range": "10*"
+  },
+  {
+    "name": "Aromatherapy",
+    "range": "Room Party"
+  },
+  {
+    "name": "Branch Poke",
+    "range": "2*"
+  },
+  {
+    "name": "Bullet Seed",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Chloroblast",
+    "range": "1*"
+  },
+  {
+    "name": "Cotton Guard",
+    "range": "Self"
+  },
+  {
+    "name": "Cotton Spore",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Drum Beating",
+    "range": "1*"
+  },
+  {
+    "name": "Energy Ball",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Flower Trick",
+    "range": "1*"
+  },
+  {
+    "name": "Forest's Curse",
+    "range": "1 All"
+  },
+  {
+    "name": "Frenzy Plant",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Giga Drain",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Grass Knot",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Grass Pledge",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Grass Whistle",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Grassy Glide",
+    "range": "1*"
+  },
+  {
+    "name": "Grassy Terrain",
+    "range": "Floor Other"
+  },
+  {
+    "name": "Grav Apple",
+    "range": "1D*"
+  },
+  {
+    "name": "Horn Leech",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Ingrain",
+    "range": "Self"
+  },
+  {
+    "name": "Ivy Cudgel",
+    "range": "1*"
+  },
+  {
+    "name": "Jungle Healing",
+    "range": "Party Room*"
+  },
+  {
+    "name": "Leaf Blade",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Leaf Storm",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Leaf Tornado",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Leafage",
+    "range": "2 Enemy"
+  },
+  {
+    "name": "Leech Seed",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Magical Leaf",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Matcha Gotcha",
+    "range": "10*"
+  },
+  {
+    "name": "Mega Drain",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Needle Arm",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Petal Blizzard",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Petal Dance",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Power Whip",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Razor Leaf",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Seed Bomb",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Seed Flare",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Sleep Powder",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Snap Trap",
+    "range": "1D*"
+  },
+  {
+    "name": "Solar Beam",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Solar Blade",
+    "range": "1D*"
+  },
+  {
+    "name": "Spicy Extract",
+    "range": "1*"
+  },
+  {
+    "name": "Spiky Shield",
+    "range": "Self"
+  },
+  {
+    "name": "Spore",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Strength Sap",
+    "range": "2D*"
+  },
+  {
+    "name": "Stun Spore",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Synthesis",
+    "range": "Self"
+  },
+  {
+    "name": "Syrup Bomb",
+    "range": "10*"
+  },
+  {
+    "name": "Trailblaze",
+    "range": "1*"
+  },
+  {
+    "name": "Trop Kick",
+    "range": "1*"
+  },
+  {
+    "name": "Vine Whip",
+    "range": "2D All"
+  },
+  {
+    "name": "Wood Hammer",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Worry Seed",
+    "range": "4 All"
+  },
+  {
+    "name": "Bone Club",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Bone Rush",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Bonemerang",
+    "range": "10D Enemy"
+  },
+  {
+    "name": "Bulldoze",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Dig",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Drill Run",
+    "range": "2 Enemy"
+  },
+  {
+    "name": "Earth Power",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Earthquake",
+    "range": "Room All Except User"
+  },
+  {
+    "name": "Fissure",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Headlong Rush",
+    "range": "1*"
+  },
+  {
+    "name": "High Horsepower",
+    "range": "1*"
+  },
+  {
+    "name": "Land's Wrath",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Magnitude",
+    "range": "Room All Except User"
+  },
+  {
+    "name": "Mud Bomb",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Mud Shot",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Mud Sport",
+    "range": "Floor Other"
+  },
+  {
+    "name": "Mud-Slap",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Precipice Blades",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Rototiller",
+    "range": "Room Party"
+  },
+  {
+    "name": "Sand Attack",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Sand Tomb",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Sandsear Storm",
+    "range": "1*"
+  },
+  {
+    "name": "Scorching Sands",
+    "range": "1*"
+  },
+  {
+    "name": "Shore Up",
+    "range": "Self*"
+  },
+  {
+    "name": "Spikes",
+    "range": "2A Hazard"
+  },
+  {
+    "name": "Stomping Tantrum",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Thousand Arrows",
+    "range": "1*"
+  },
+  {
+    "name": "Thousand Waves",
+    "range": "1*"
+  },
+  {
+    "name": "Aurora Beam",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Aurora Veil",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Avalanche",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Blizzard",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Chilly Reception",
+    "range": "Self*"
+  },
+  {
+    "name": "Freeze Shock",
+    "range": "10D Enemy"
+  },
+  {
+    "name": "Freeze-Dry",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Frost Breath",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Glacial Lance",
+    "range": "2*"
+  },
+  {
+    "name": "Glaciate",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Hail",
+    "range": "Floor Other"
+  },
+  {
+    "name": "Haze",
+    "range": "Room All"
+  },
+  {
+    "name": "Ice Ball",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Ice Beam",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Ice Burn",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Ice Fang",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Ice Hammer",
+    "range": "1*"
+  },
+  {
+    "name": "Ice Punch",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Ice Shard",
+    "range": "2D All"
+  },
+  {
+    "name": "Ice Spinner",
+    "range": "1*"
+  },
+  {
+    "name": "Icicle Crash",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Icicle Spear",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Icy Wind",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Mist",
+    "range": "Room Party"
+  },
+  {
+    "name": "Mountain Gale",
+    "range": "1D*"
+  },
+  {
+    "name": "Powder Snow",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Sheer Cold",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Snowscape",
+    "range": "Floor*"
+  },
+  {
+    "name": "Triple Axel",
+    "range": "1*"
+  },
+  {
+    "name": "Acupressure",
+    "range": "Room Party"
+  },
+  {
+    "name": "After You",
+    "range": "User and Ally"
+  },
+  {
+    "name": "Assist",
+    "range": "Special"
+  },
+  {
+    "name": "Attract",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Barrage",
+    "range": "5A Enemy"
+  },
+  {
+    "name": "Baton Pass",
+    "range": "User and Ally"
+  },
+  {
+    "name": "Belly Drum",
+    "range": "Self"
+  },
+  {
+    "name": "Bestow",
+    "range": "1 All"
+  },
+  {
+    "name": "Bide",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Bind",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Block",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Blood Moon",
+    "range": "Room*"
+  },
+  {
+    "name": "Body Slam",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Boomburst",
+    "range": "Room All Except User"
+  },
+  {
+    "name": "Camouflage",
+    "range": "Self"
+  },
+  {
+    "name": "Captivate",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Celebrate",
+    "range": "1*"
+  },
+  {
+    "name": "Chip Away",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Comet Punch",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Confide",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Constrict",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Conversion",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Conversion 2",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Copycat",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Court Change",
+    "range": "1*"
+  },
+  {
+    "name": "Covet",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Crush Claw",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Crush Grip",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Cut",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Defense Curl",
+    "range": "Self"
+  },
+  {
+    "name": "Disable",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Dizzy Punch",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Doodle",
+    "range": "1*"
+  },
+  {
+    "name": "Double Hit",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Double Slap",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Double Team",
+    "range": "Self"
+  },
+  {
+    "name": "Double-Edge",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Echoed Voice",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Egg Bomb",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Encore",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Endeavor",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Endure",
+    "range": "Self"
+  },
+  {
+    "name": "Entrainment",
+    "range": "1 All"
+  },
+  {
+    "name": "Explosion",
+    "range": "2B All"
+  },
+  {
+    "name": "Extreme Speed",
+    "range": "2 Enemy"
+  },
+  {
+    "name": "Facade",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fake Out",
+    "range": "2 Enemy"
+  },
+  {
+    "name": "False Swipe",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Feint",
+    "range": "2 Enemy"
+  },
+  {
+    "name": "Fillet Away",
+    "range": "Self*"
+  },
+  {
+    "name": "Flail",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Flash",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Focus Energy",
+    "range": "Self"
+  },
+  {
+    "name": "Follow Me",
+    "range": "Self"
+  },
+  {
+    "name": "Foresight",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Frustration",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fury Attack",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fury Swipes",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Giga Impact",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Glare",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Growl",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Growth",
+    "range": "Self"
+  },
+  {
+    "name": "Guillotine",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Happy Hour",
+    "range": "1*"
+  },
+  {
+    "name": "Harden",
+    "range": "Self"
+  },
+  {
+    "name": "Head Charge",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Headbutt",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Heal Bell",
+    "range": "Room Party"
+  },
+  {
+    "name": "Helping Hand",
+    "range": "Room Allies"
+  },
+  {
+    "name": "Hidden Power",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Hold Back",
+    "range": "1*"
+  },
+  {
+    "name": "Hold Hands",
+    "range": "1*"
+  },
+  {
+    "name": "Horn Attack",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Horn Drill",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Howl",
+    "range": "Self"
+  },
+  {
+    "name": "Hyper Beam",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Hyper Drill",
+    "range": "1D*"
+  },
+  {
+    "name": "Hyper Fang",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Hyper Voice",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Judgment",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Laser Focus",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Last Resort",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Leer",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Lock-On",
+    "range": "Self"
+  },
+  {
+    "name": "Lovely Kiss",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Lucky Chant",
+    "range": "Room Party"
+  },
+  {
+    "name": "Max Guard",
+    "range": "Self*"
+  },
+  {
+    "name": "Me First",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Mean Look",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Mega Kick",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Mega Punch",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Metronome",
+    "range": "Special"
+  },
+  {
+    "name": "Milk Drink",
+    "range": "Room Party"
+  },
+  {
+    "name": "Mimic",
+    "range": "1 All"
+  },
+  {
+    "name": "Mind Reader",
+    "range": "Self"
+  },
+  {
+    "name": "Minimize",
+    "range": "Self"
+  },
+  {
+    "name": "Morning Sun",
+    "range": "Room Party"
+  },
+  {
+    "name": "Multi-Attack",
+    "range": "1*"
+  },
+  {
+    "name": "Natural Gift",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Nature Power",
+    "range": "Special"
+  },
+  {
+    "name": "Noble Roar",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Odor Sleuth",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Pain Split",
+    "range": "1 All"
+  },
+  {
+    "name": "Pay Day",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Perish Song",
+    "range": "Floor Enemy"
+  },
+  {
+    "name": "Play Nice",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Population Bomb",
+    "range": "1D*"
+  },
+  {
+    "name": "Pound",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Power Shift",
+    "range": "Self*"
+  },
+  {
+    "name": "Present",
+    "range": "1D All"
+  },
+  {
+    "name": "Protect",
+    "range": "Self"
+  },
+  {
+    "name": "Psych Up",
+    "range": "1 All"
+  },
+  {
+    "name": "Quick Attack",
+    "range": "2 Enemy"
+  },
+  {
+    "name": "Rage",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Raging Bull",
+    "range": "1*"
+  },
+  {
+    "name": "Rapid Spin",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Razor Wind",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Recover",
+    "range": "Self"
+  },
+  {
+    "name": "Recycle",
+    "range": "Special"
+  },
+  {
+    "name": "Reflect Type",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Refresh",
+    "range": "Room Party"
+  },
+  {
+    "name": "Relic Song",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Retaliate",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Return",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Revelation Dance",
+    "range": "1*"
+  },
+  {
+    "name": "Revival Blessing",
+    "range": "1*"
+  },
+  {
+    "name": "Roar",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Rock Climb",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Round",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Safeguard",
+    "range": "Room Party"
+  },
+  {
+    "name": "Scary Face",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Scratch",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Screech",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Secret Power",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Self-Destruct",
+    "range": "1B All"
+  },
+  {
+    "name": "Sharpen",
+    "range": "Self"
+  },
+  {
+    "name": "Shed Tail",
+    "range": "Self*"
+  },
+  {
+    "name": "Shell Smash",
+    "range": "Self"
+  },
+  {
+    "name": "Simple Beam",
+    "range": "4 All"
+  },
+  {
+    "name": "Sing",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Sketch",
+    "range": "1 All"
+  },
+  {
+    "name": "Skull Bash",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Slack Off",
+    "range": "Self"
+  },
+  {
+    "name": "Slam",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Slash",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Sleep Talk",
+    "range": "Special"
+  },
+  {
+    "name": "Smelling Salts",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Smokescreen",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Snore",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Soft-Boiled",
+    "range": "Room Party"
+  },
+  {
+    "name": "Sonic Boom",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Spike Cannon",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Spit Up",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Splash",
+    "range": "Self"
+  },
+  {
+    "name": "Spotlight",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Stockpile",
+    "range": "Self"
+  },
+  {
+    "name": "Stomp",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Strength",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Struggle",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Stuff Cheeks",
+    "range": "Self*"
+  },
+  {
+    "name": "Substitute",
+    "range": "Self"
+  },
+  {
+    "name": "Super Fang",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Supersonic",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Swagger",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Swallow",
+    "range": "Self"
+  },
+  {
+    "name": "Sweet Scent",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Swift",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Swords Dance",
+    "range": "Self"
+  },
+  {
+    "name": "Tackle",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Tail Slap",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Tail Whip",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Take Down",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Tearful Look",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Teatime",
+    "range": "Room*"
+  },
+  {
+    "name": "Techno Blast",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Teeter Dance",
+    "range": "Room All Except User"
+  },
+  {
+    "name": "Tera Blast",
+    "range": "1*"
+  },
+  {
+    "name": "Tera Starstorm",
+    "range": "Room*"
+  },
+  {
+    "name": "Terrain Pulse",
+    "range": "1*"
+  },
+  {
+    "name": "Thrash",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Tickle",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Tidy Up",
+    "range": "Room*"
+  },
+  {
+    "name": "Transform",
+    "range": "2 All"
+  },
+  {
+    "name": "Tri Attack",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Trump Card",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Uproar",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Vise Grip",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Weather Ball",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Whirlwind",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Wish",
+    "range": "Self"
+  },
+  {
+    "name": "Work Up",
+    "range": "Self"
+  },
+  {
+    "name": "Wrap",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Wring Out",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Yawn",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Acid",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Acid Armor",
+    "range": "Self"
+  },
+  {
+    "name": "Acid Spray",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Baneful Bunker",
+    "range": "Self*"
+  },
+  {
+    "name": "Barb Barrage",
+    "range": "2D*"
+  },
+  {
+    "name": "Belch",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Clear Smog",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Coil",
+    "range": "Self"
+  },
+  {
+    "name": "Corrosive Gas",
+    "range": "1*"
+  },
+  {
+    "name": "Cross Poison",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Dire Claw",
+    "range": "1*"
+  },
+  {
+    "name": "Gastro Acid",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Gunk Shot",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Malignant Chain",
+    "range": "1*"
+  },
+  {
+    "name": "Mortal Spin",
+    "range": "1*"
+  },
+  {
+    "name": "Noxious Torque",
+    "range": "1*"
+  },
+  {
+    "name": "Poison Fang",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Poison Gas",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Poison Jab",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Poison Powder",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Poison Sting",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Poison Tail",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Purify",
+    "range": "1B*"
+  },
+  {
+    "name": "Shell Side Arm",
+    "range": "10*"
+  },
+  {
+    "name": "Sludge",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Sludge Bomb",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Sludge Wave",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Smog",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Toxic",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Toxic Spikes",
+    "range": "2A Hazard"
+  },
+  {
+    "name": "Toxic Thread",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Venom Drench",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Venoshock",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Agility",
+    "range": "Room Party"
+  },
+  {
+    "name": "Ally Switch",
+    "range": "User and Ally"
+  },
+  {
+    "name": "Amnesia",
+    "range": "Self"
+  },
+  {
+    "name": "Barrier",
+    "range": "Self"
+  },
+  {
+    "name": "Calm Mind",
+    "range": "Self"
+  },
+  {
+    "name": "Confusion",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Cosmic Power",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Dream Eater",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Eerie Spell",
+    "range": "1*"
+  },
+  {
+    "name": "Esper Wing",
+    "range": "1*"
+  },
+  {
+    "name": "Expanding Force",
+    "range": "Room*"
+  },
+  {
+    "name": "Extrasensory",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Freezing Glare",
+    "range": "1*"
+  },
+  {
+    "name": "Future Sight",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Gravity",
+    "range": "Floor Other"
+  },
+  {
+    "name": "Guard Split",
+    "range": "1D All"
+  },
+  {
+    "name": "Guard Swap",
+    "range": "1D All"
+  },
+  {
+    "name": "Heal Block",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Heal Pulse",
+    "range": "4 All"
+  },
+  {
+    "name": "Healing Wish",
+    "range": "Room Allies"
+  },
+  {
+    "name": "Heart Stamp",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Heart Swap",
+    "range": "1D All"
+  },
+  {
+    "name": "Hyperspace Hole",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Hypnosis",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Imprison",
+    "range": "Floor Enemy"
+  },
+  {
+    "name": "Instruct",
+    "range": "Self*"
+  },
+  {
+    "name": "Kinesis",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Light Screen",
+    "range": "Room Party"
+  },
+  {
+    "name": "Lumina Crash",
+    "range": "1*"
+  },
+  {
+    "name": "Lunar Blessing",
+    "range": "Self*"
+  },
+  {
+    "name": "Lunar Dance",
+    "range": "Room Allies"
+  },
+  {
+    "name": "Luster Purge",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Magic Coat",
+    "range": "Room Party"
+  },
+  {
+    "name": "Magic Powder",
+    "range": "1B*"
+  },
+  {
+    "name": "Magic Room",
+    "range": "Floor Other"
+  },
+  {
+    "name": "Meditate",
+    "range": "Self"
+  },
+  {
+    "name": "Miracle Eye",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Mirror Coat",
+    "range": "Self"
+  },
+  {
+    "name": "Mist Ball",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Mystical Power",
+    "range": "1*"
+  },
+  {
+    "name": "Photon Geyser",
+    "range": "2*"
+  },
+  {
+    "name": "Power Split",
+    "range": "1D All"
+  },
+  {
+    "name": "Power Swap",
+    "range": "1D All"
+  },
+  {
+    "name": "Power Trick",
+    "range": "Self"
+  },
+  {
+    "name": "Prismatic Laser",
+    "range": "10P*"
+  },
+  {
+    "name": "Psybeam",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Psyblade",
+    "range": "1*"
+  },
+  {
+    "name": "Psychic",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Psychic Fangs",
+    "range": "1*"
+  },
+  {
+    "name": "Psychic Noise",
+    "range": "1D*"
+  },
+  {
+    "name": "Psychic Terrain",
+    "range": "Floor*"
+  },
+  {
+    "name": "Psycho Boost",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Psycho Cut",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Psycho Shift",
+    "range": "1 All"
+  },
+  {
+    "name": "Psyshield Bash",
+    "range": "1*"
+  },
+  {
+    "name": "Psyshock",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Psystrike",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Psywave",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Reflect",
+    "range": "Room Party"
+  },
+  {
+    "name": "Rest",
+    "range": "Self"
+  },
+  {
+    "name": "Role Play",
+    "range": "1 All"
+  },
+  {
+    "name": "Skill Swap",
+    "range": "1D All"
+  },
+  {
+    "name": "Speed Swap",
+    "range": "1*"
+  },
+  {
+    "name": "Stored Power",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Synchronoise",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Take Heart",
+    "range": "Self*"
+  },
+  {
+    "name": "Telekinesis",
+    "range": "1 All"
+  },
+  {
+    "name": "Teleport",
+    "range": "Self"
+  },
+  {
+    "name": "Trick",
+    "range": "1 All"
+  },
+  {
+    "name": "Trick Room",
+    "range": "Floor Other"
+  },
+  {
+    "name": "Twin Beam",
+    "range": "10*"
+  },
+  {
+    "name": "Wonder Room",
+    "range": "Floor Other"
+  },
+  {
+    "name": "Zen Headbutt",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Accelerock",
+    "range": "2*"
+  },
+  {
+    "name": "Ancient Power",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Diamond Storm",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Head Smash",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Meteor Beam",
+    "range": "10*"
+  },
+  {
+    "name": "Mighty Cleave",
+    "range": "1*"
+  },
+  {
+    "name": "Power Gem",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Rock Blast",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Rock Polish",
+    "range": "Self"
+  },
+  {
+    "name": "Rock Slide",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Rock Throw",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Rock Tomb",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Rock Wrecker",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Rollout",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Salt Cure",
+    "range": "1*"
+  },
+  {
+    "name": "Sandstorm",
+    "range": "Floor Other"
+  },
+  {
+    "name": "Smack Down",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Stealth Rock",
+    "range": "2A Hazard"
+  },
+  {
+    "name": "Stone Axe",
+    "range": "1*"
+  },
+  {
+    "name": "Stone Edge",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Tar Shot",
+    "range": "10*"
+  },
+  {
+    "name": "Wide Guard",
+    "range": "Room Party"
+  },
+  {
+    "name": "Anchor Shot",
+    "range": "2D*"
+  },
+  {
+    "name": "Autotomize",
+    "range": "Self"
+  },
+  {
+    "name": "Behemoth Bash",
+    "range": "1*"
+  },
+  {
+    "name": "Behemoth Blade",
+    "range": "1*"
+  },
+  {
+    "name": "Bullet Punch",
+    "range": "2 Enemy"
+  },
+  {
+    "name": "Doom Desire",
+    "range": "Room Enemy"
+  },
+  {
+    "name": "Double Iron Bash",
+    "range": "1*"
+  },
+  {
+    "name": "Flash Cannon",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Gear Grind",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Gear Up",
+    "range": "Self*"
+  },
+  {
+    "name": "Gigaton Hammer",
+    "range": "1*"
+  },
+  {
+    "name": "Gyro Ball",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Hard Press",
+    "range": "1*"
+  },
+  {
+    "name": "Heavy Slam",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Iron Defense",
+    "range": "Self"
+  },
+  {
+    "name": "Iron Head",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Iron Tail",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "King's Shield",
+    "range": "Self"
+  },
+  {
+    "name": "Magnet Bomb",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Make It Rain",
+    "range": "1*"
+  },
+  {
+    "name": "Metal Burst",
+    "range": "Self"
+  },
+  {
+    "name": "Metal Claw",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Metal Sound",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Meteor Mash",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Mirror Shot",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Shelter",
+    "range": "Self*"
+  },
+  {
+    "name": "Shift Gear",
+    "range": "Self"
+  },
+  {
+    "name": "Smart Strike",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Spin Out",
+    "range": "1B*"
+  },
+  {
+    "name": "Steel Beam",
+    "range": "10*"
+  },
+  {
+    "name": "Steel Roller",
+    "range": "1*"
+  },
+  {
+    "name": "Steel Wing",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Sunsteel Strike",
+    "range": "2*"
+  },
+  {
+    "name": "Tachyon Cutter",
+    "range": "1*"
+  },
+  {
+    "name": "Aqua Cutter",
+    "range": "10*"
+  },
+  {
+    "name": "Aqua Jet",
+    "range": "2 Enemy"
+  },
+  {
+    "name": "Aqua Ring",
+    "range": "Self"
+  },
+  {
+    "name": "Aqua Step",
+    "range": "1*"
+  },
+  {
+    "name": "Aqua Tail",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Brine",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Bubble",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Bubble Beam",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Chilling Water",
+    "range": "1*"
+  },
+  {
+    "name": "Clamp",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Crabhammer",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Dive",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Fishious Rend",
+    "range": "1*"
+  },
+  {
+    "name": "Flip Turn",
+    "range": "2*"
+  },
+  {
+    "name": "Hydro Cannon",
+    "range": "10D Enemy"
+  },
+  {
+    "name": "Hydro Pump",
+    "range": "10D Enemy"
+  },
+  {
+    "name": "Hydro Steam",
+    "range": "1*"
+  },
+  {
+    "name": "Jet Punch",
+    "range": "2*"
+  },
+  {
+    "name": "Life Dew",
+    "range": "Party Room*"
+  },
+  {
+    "name": "Liquidation",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Muddy Water",
+    "range": "Room All Except User"
+  },
+  {
+    "name": "Octazooka",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Origin Pulse",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Rain Dance",
+    "range": "Floor Other"
+  },
+  {
+    "name": "Razor Shell",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Scald",
+    "range": "1D Enemy"
+  },
+  {
+    "name": "Snipe Shot",
+    "range": "10*"
+  },
+  {
+    "name": "Soak",
+    "range": "1 All"
+  },
+  {
+    "name": "Sparkling Aria",
+    "range": "2D*"
+  },
+  {
+    "name": "Steam Eruption",
+    "range": "1*"
+  },
+  {
+    "name": "Surf",
+    "range": "Room All Except User"
+  },
+  {
+    "name": "Surging Strikes",
+    "range": "1*"
+  },
+  {
+    "name": "Triple Dive",
+    "range": "1*"
+  },
+  {
+    "name": "Water Gun",
+    "range": "2D All"
+  },
+  {
+    "name": "Water Pledge",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Water Pulse",
+    "range": "4 Enemy"
+  },
+  {
+    "name": "Water Shuriken",
+    "range": "2D All"
+  },
+  {
+    "name": "Water Sport",
+    "range": "Floor Other"
+  },
+  {
+    "name": "Water Spout",
+    "range": "1B Enemy"
+  },
+  {
+    "name": "Waterfall",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Wave Crash",
+    "range": "1D*"
+  },
+  {
+    "name": "Whirlpool",
+    "range": "1 Enemy"
+  },
+  {
+    "name": "Withdraw",
+    "range": "Self"
+  }
+]
