@@ -116,11 +116,11 @@
     "range": "4 Enemy"
   },
   {
-    "name": "U-turn",
+    "name": "U turn",
     "range": "1 Enemy"
   },
   {
-    "name": "X-Scissor",
+    "name": "X Scissor",
     "range": "1 Enemy"
   },
   {
@@ -296,7 +296,7 @@
     "range": "1 Enemy"
   },
   {
-    "name": "Topsy-Turvy",
+    "name": "Topsy Turvy",
     "range": "1 Enemy"
   },
   {
@@ -588,7 +588,7 @@
     "range": "Room Allies"
   },
   {
-    "name": "Baby-Doll Eyes",
+    "name": "Baby Doll Eyes",
     "range": "1 Enemy"
   },
   {
@@ -820,7 +820,7 @@
     "range": "1B*"
   },
   {
-    "name": "Power-Up Punch",
+    "name": "Power Up Punch",
     "range": "1 Enemy"
   },
   {
@@ -900,7 +900,7 @@
     "range": "1 Enemy"
   },
   {
-    "name": "Wake-Up Slap",
+    "name": "Wake Up Slap",
     "range": "1 Enemy"
   },
   {
@@ -1068,11 +1068,11 @@
     "range": "1D*"
   },
   {
-    "name": "V-create",
+    "name": "V create",
     "range": "1*"
   },
   {
-    "name": "Will-O-Wisp",
+    "name": "Will O Wisp",
     "range": "1D Enemy"
   },
   {
@@ -1292,7 +1292,7 @@
     "range": "1 Enemy"
   },
   {
-    "name": "Trick-or-Treat",
+    "name": "Trick or Treat",
     "range": "1 All"
   },
   {
@@ -1580,7 +1580,7 @@
     "range": "Floor Other"
   },
   {
-    "name": "Mud-Slap",
+    "name": "Mud Slap",
     "range": "1D Enemy"
   },
   {
@@ -1652,7 +1652,7 @@
     "range": "10D Enemy"
   },
   {
-    "name": "Freeze-Dry",
+    "name": "Freeze Dry",
     "range": "1 Enemy"
   },
   {
@@ -1888,7 +1888,7 @@
     "range": "Self"
   },
   {
-    "name": "Double-Edge",
+    "name": "Double Edge",
     "range": "1 Enemy"
   },
   {
@@ -2076,7 +2076,7 @@
     "range": "1 Enemy"
   },
   {
-    "name": "Lock-On",
+    "name": "Lock On",
     "range": "Self"
   },
   {
@@ -2132,7 +2132,7 @@
     "range": "Room Party"
   },
   {
-    "name": "Multi-Attack",
+    "name": "Multi Attack",
     "range": "1*"
   },
   {
@@ -2280,7 +2280,7 @@
     "range": "1 Enemy"
   },
   {
-    "name": "Self-Destruct",
+    "name": "Self Destruct",
     "range": "1B All"
   },
   {
@@ -2340,7 +2340,7 @@
     "range": "1B Enemy"
   },
   {
-    "name": "Soft-Boiled",
+    "name": "Soft Boiled",
     "range": "Room Party"
   },
   {
